@@ -17,7 +17,7 @@ function startGenerator() {
   managerInfo();
 }
 
-// Manager Role Questionaire
+
 function managerInfo() {
   inquirer
     .prompt([
@@ -54,7 +54,7 @@ function managerInfo() {
     });
 }
 
-// Engineer Role Questionaire
+
 function engineerInfo() {
   inquirer
     .prompt([
@@ -91,7 +91,7 @@ function engineerInfo() {
     });
 }
 
-// Intern Role Questionaire
+
 function internInfo() {
   inquirer
     .prompt([
@@ -128,7 +128,7 @@ function internInfo() {
     });
 }
 
-// Add additional team members function
+
 function addMembers() {
   inquirer
     .prompt([
@@ -150,7 +150,7 @@ function addMembers() {
     });
 }
 
-// Finish HTML compiling function
+
 function finishHtml() {
   fs.writeFileSync(outputPath, render(teamMembers));
 }
