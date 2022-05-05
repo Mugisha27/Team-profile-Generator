@@ -23,8 +23,9 @@ THEN that GitHub profile opens in a new tab
 - [LICENSE](#license)
 - [QUESTIONS](#questions)
 
-## INSTALLATION
-![INSTALLATION](img/Users/chrismugisha/Desktop/Team-profile-Generator/img/Untitled.png)
+## INSTALLATION!
+![VIEW!](img/screenshot.png)
+
 
     
 ## USAGE
