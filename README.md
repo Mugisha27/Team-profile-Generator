@@ -24,6 +24,7 @@ THEN that GitHub profile opens in a new tab
 - [QUESTIONS](#questions)
 
 ## INSTALLATION
+![INSTALLATION](img/Users/chrismugisha/Desktop/Team-profile-Generator/img/Untitled.png)
 
     
 ## USAGE
